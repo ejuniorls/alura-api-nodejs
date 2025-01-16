@@ -1,0 +1,39 @@
+# Node modules
+node_modules/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment variables
+.env
+
+# IDEs and editors
+.idea/           # JetBrains IDEs (IntelliJ, WebStorm, etc.)
+.vscode/         # Visual Studio Code
+*.suo            # Visual Studio
+*.ntvs*          # Visual Studio
+*.njsproj        # Visual Studio
+*.vcxproj        # Visual Studio
+.DS_Store        # macOS Finder files
+Thumbs.db        # Windows thumbnail cache
+*.swp            # Vim swap files
+*.sublime-project
+*.sublime-workspace
+*.code-workspace
+
+# System files
+*.bak
+*.tmp
+*.old
+*.orig
+
+# macOS system files
+.AppleDouble
+.LSOverride
+
+# Windows system files
+desktop.ini
